@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="u24h_serial4P.f90" open="1" top="1" tabpos="1">
+		<Cursor position="22888" topLine="702" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="u24h_serial_LOG.txt" open="0" top="0" tabpos="3">
+		<Cursor position="991" topLine="17" />
+	</File>
+	<File name="initialize4P.f90" open="0" top="0" tabpos="2">
+		<Cursor position="327" topLine="30" />
+	</File>
+</BrowseTracker_layout_file>
